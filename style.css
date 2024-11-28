@@ -308,3 +308,8 @@ object {
     color: white;
 }
 
+.integrantes {
+    display: flex;
+    justify-content: space-between;
+}
+
